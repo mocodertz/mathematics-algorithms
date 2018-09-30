@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1440013823 source:c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\main.cpp
+	<iostream>
+	<conio.h>
+	"..\include\Bugers.h"
+	"..\include\Fisher_Equation.h"
+
+1440009066 c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\include\bugers.h
+	<vector>
+	<map>
+	<string>
+
+1440009133 source:c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\src\bugers.cpp
+	"..\include\Bugers.h"
+	<math.h>
+	<string>
+	<iostream>
+	<cmath>
+	<sstream>
+
+1438799463 source:c:\users\mo coder\documents\projectcpp\bugers_equation\main.cpp
+	<iostream>
+	"C:\Users\MO CODER\Documents\ProjectCPP\Bugers_equation\include\Bugers.h"
+
+1438799828 source:c:\users\mo coder\documents\projectcpp\bugers_equation\src\bugers.cpp
+	"C:\Users\MO CODER\Documents\ProjectCPP\Bugers_equation\include\Bugers.h"
+	<math.h>
+	<string>
+	<iostream>
+	<cmath>
+	<sstream>
+
+1438736364 c:\users\mo coder\documents\projectcpp\bugers_equation\include\bugers.h
+	<vector>
+	<map>
+	<string>
+
+1440055507 source:c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\src\fisher_equation.cpp
+	"Fisher_Equation.h"
+	<math.h>
+	<string>
+	<iostream>
+	<cmath>
+	<sstream>
+
+1440008737 c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\include\fisher_equation.h
+	<vector>
+	<map>
+	<string>
+
+1439996158 source:c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\src\gardner_equation.cpp
+	"Gardner_Equation.h"
+
+1439996157 c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\include\gardner_equation.h
+
+1439996075 source:c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\src\korteweg_de_variesequation.cpp
+	"Korteweg_de_VariesEquation.h"
+
+1439996075 c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\include\korteweg_de_variesequation.h
+
+1439995564 source:c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\src\sinegordon_equation.cpp
+	"SineGordon_Equation.h"
+
+1439995564 c:\users\mtemi ndongo\documents\mariolearn\bugers_equation\include\sinegordon_equation.h
+
+1440058964 source:c:\users\kimunetata\desktop\teacher\bugers_equation\main.cpp
+	<iostream>
+	<conio.h>
+	"..\include\Bugers.h"
+	"..\include\Fisher_Equation.h"
+
+1440009068 c:\users\kimunetata\desktop\teacher\bugers_equation\include\bugers.h
+	<vector>
+	<map>
+	<string>
+
+1440057189 c:\users\kimunetata\desktop\teacher\bugers_equation\include\fisher_equation.h
+	<vector>
+	<map>
+	<string>
+
+1439996160 source:c:\users\kimunetata\desktop\teacher\bugers_equation\src\gardner_equation.cpp
+	"Gardner_Equation.h"
+
+1439996158 c:\users\kimunetata\desktop\teacher\bugers_equation\include\gardner_equation.h
+
+1439996076 source:c:\users\kimunetata\desktop\teacher\bugers_equation\src\korteweg_de_variesequation.cpp
+	"Korteweg_de_VariesEquation.h"
+
+1439996076 c:\users\kimunetata\desktop\teacher\bugers_equation\include\korteweg_de_variesequation.h
+
+1439995566 source:c:\users\kimunetata\desktop\teacher\bugers_equation\src\sinegordon_equation.cpp
+	"SineGordon_Equation.h"
+
+1439995566 c:\users\kimunetata\desktop\teacher\bugers_equation\include\sinegordon_equation.h
+
+1440056720 source:c:\users\kimunetata\desktop\teacher\bugers_equation\src\bugers.cpp
+	"..\include\Bugers.h"
+	<math.h>
+	<string>
+	<iostream>
+	<cmath>
+	<sstream>
+
+1440058902 source:c:\users\kimunetata\desktop\teacher\bugers_equation\src\fisher_equation.cpp
+	"Fisher_Equation.h"
+	<math.h>
+	<string>
+	<iostream>
+	<cmath>
+	<sstream>
+
+1440085891 source:c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\main.cpp
+	<iostream>
+	<conio.h>
+	"..\include\Bugers.h"
+	"..\include\Fisher_Equation.h"
+	"..\include\SineGordon_Equation.h"
+	"..\include\Korteweg_de_VariesEquation.h"
+	"..\include\Gardner_Equation.h"
+
+1440009068 c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\include\bugers.h
+	<vector>
+	<map>
+	<string>
+
+1440057190 c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\include\fisher_equation.h
+	<vector>
+	<map>
+	<string>
+
+1440062363 c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\include\sinegordon_equation.h
+	<vector>
+	<map>
+	<string>
+
+1440056720 source:c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\src\bugers.cpp
+	"..\include\Bugers.h"
+	<math.h>
+	<string>
+	<iostream>
+	<cmath>
+	<sstream>
+
+1440065951 source:c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\src\fisher_equation.cpp
+	"Fisher_Equation.h"
+	<math.h>
+	<string>
+	<iostream>
+	<cmath>
+	<sstream>
+
+1440085328 source:c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\src\gardner_equation.cpp
+	"Gardner_Equation.h"
+	<math.h>
+	<string>
+	<iostream>
+	<cmath>
+	<sstream>
+
+1440083297 c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\include\gardner_equation.h
+	<vector>
+	<map>
+	<string>
+
+1440079081 source:c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\src\korteweg_de_variesequation.cpp
+	"Korteweg_de_VariesEquation.h"
+	<math.h>
+	<string>
+	<iostream>
+	<cmath>
+	<sstream>
+
+1440075637 c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\include\korteweg_de_variesequation.h
+	<vector>
+	<map>
+	<string>
+
+1440069956 source:c:\users\mtemi ndongo\desktop\teachernew\teacher\bugers_equation\src\sinegordon_equation.cpp
+	"SineGordon_Equation.h"
+	"SineGordon_Equation.h"
+	<math.h>
+	<string>
+	<iostream>
+	<cmath>
+	<sstream>
+
